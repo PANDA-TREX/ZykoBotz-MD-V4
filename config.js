@@ -60,10 +60,10 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62XXX' //pasang no bot lo 
-global.nomorown = '62XXX' //pasang no own lo
-global.nomorown1 = '62XXX'
-global.nomorown2 = '62XXX'
+global.nomorbot = '94712954748' //pasang no bot lo 
+global.nomorown = '94712954748' //pasang no own lo
+global.nomorown1 = '94712954748'
+global.nomorown2 = '94712954748'
 global.nomorwa = '0'
 global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
 global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
