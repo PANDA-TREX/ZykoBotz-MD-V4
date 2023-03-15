@@ -55,8 +55,8 @@ global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62XXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
-['62XXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
+['94712954748', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
+['94712954748', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
 ]
 global.mods = []
 global.prems = []
